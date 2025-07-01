@@ -96,13 +96,13 @@ export const ContactSection = () => {
             <div className="pt-8">
               <h4 className="font-medium mb-4"> Connect With Me</h4>
               <div className="flex space-x-4 justify-center">
-                <a href="#" target="_blank">
+                <a href="https://www.linkedin.com/in/tharindu-dharmadasa0927/" target="_blank">
                   <Linkedin />
                 </a>
-                <a href="#" target="_blank">
+                <a href="https://www.instagram.com/tharindu_dharmadasa/" target="_blank">
                   <Instagram />
                 </a>
-                <a href="#" target="_blank">
+                <a href="https://www.facebook.com/tharindu.dayan.0927" target="_blank">
                   <Facebook />
                 </a>
               </div>
@@ -121,7 +121,7 @@ export const ContactSection = () => {
                   name="name"
                   required
                   className="w-full px-4 py-3 rounded-md border border-input bg-background focus:outline-hidden focus:ring-2 focus:ring-primary"
-                  placeholder="Ex: Jonn Wick..."
+                  placeholder="Ex: John Wick..."
                 />
               </div>
 
@@ -133,7 +133,7 @@ export const ContactSection = () => {
                   name="email"
                   required
                   className="w-full px-4 py-3 rounded-md border border-input bg-background focus:outline-hidden focus:ring-2 focus:ring-primary"
-                  placeholder="Ex: jonn@gmail.com..."
+                  placeholder="Ex: example@gmail.com..."
                 />
               </div>
 
